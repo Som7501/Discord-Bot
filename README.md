@@ -158,5 +158,5 @@ If you find this project helpful:
 * Give it a ⭐ on GitHub
 * Fork and improve it
 
-Happy Coding! 🚀
+Happy Coding 🚀
 
